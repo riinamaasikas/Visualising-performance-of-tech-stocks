@@ -1,4 +1,4 @@
-# Visualising-performance-of-tech-stocks
+# Visualising-performance-of-tech-stocks Python, Pandas, NumPy, Matplotlib
 Financial analysis and various plots on 5 tech stocks - Google, Amazon, Meta, Apple and Microsoft.
 
 Covers the period of 1 January 2023 to 1 July 2023
